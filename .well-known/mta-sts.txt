@@ -1,4 +1,4 @@
 version: STSv1
-   mode: testing
-   mx: *.mail.ovh.net
-   max_age: 86400
+mode: testing
+mx: *.mail.ovh.net
+max_age: 86400
